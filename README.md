@@ -1,1 +1,1 @@
-# new-vedio
+# new-video
